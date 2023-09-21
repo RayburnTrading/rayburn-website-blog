@@ -1,30 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Rayburn Exclusives"
 date:   2023-09-20 17:07:12 +0100
-categories: jekyll update
+tags: [exclusives]
 cover: "/assets/post_exclusives.jpg"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+At Rayburn Trading, we take pride in offering an extensive range of exclusive wholesale products that set us apart in the industry.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Our commitment to sourcing and delivering unique, high-quality items ensures that our customers have access to an exciting array of options.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Whether you're looking for distinctive merchandise to differentiate your retail offerings or seeking exclusive deals that provide you with a competitive edge, Rayburn Trading is your trusted partner.
 
-Jekyll also offers powerful support for code snippets:
+Explore our selection of [exclusive products][exclusive] and discover the difference that quality and variety can make for your business.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[exclusive]: https://www.rayburntrading.com/shop/offer/exclusive-to-rayburn

@@ -2,29 +2,20 @@
 layout: post
 title:  "New Lines September 2023"
 date:   2023-09-20 17:07:12 +0100
-categories: jekyll update
-cover: "/assets/post_exclusives.jpg"
+tags: [new lines]
+cover: "/assets/post_new_lines.jpg"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This month we've had six new [Maynard's sweet bags][maynards] launch, price-marked at &pound;1.25, all the essentials like Allsorts, Sports Mix and Jelly Babies.
 
-Jekyll requires blog post files to be named according to the following format: whoop
+Not to be missed, three new [Comfort Fabric Conditioner's][comfort] SKU's have arrived, 33 wash, 50 wash and 55 wash, at clearance prices and only 1500 cases of each.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+[Elbow Grease][elbow] is one of the UK's fastest growing household cleaning brands and we've got a great new range of soap pads, drain unblockers and more.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Tis the season, we've got a great range of Christmas stock in, from all your favourite branded chocolate and confectionery to gift bags, wrapping paper, cards and more, all at clearance prices.
 
-Jekyll also offers powerful support for code snippets:
+You can find it all in our Christmas Catalogue or [click here][christmas] for our Christmas range. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[maynards]: https://www.rayburntrading.com/shop/search?query=maynard%20pm&page=1
+[comfort]:   https://www.rayburntrading.com/shop/search?query=comfort%20fabric%20conditioner&page=1
+[elbow]: https://www.rayburntrading.com/shop/search?query=elbow%20grease&page=1
+[christmas]: https://www.rayburntrading.com/shop/offer/Wholesale_christmas_lines
