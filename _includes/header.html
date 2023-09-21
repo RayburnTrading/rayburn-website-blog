@@ -1,0 +1,218 @@
+<header class="top-0 left-0 right-0 z-40 mb-6 bg-slate-50">
+  <nav
+    aria-label="Top"
+    class="h-24 mx-auto lg:mt-4 bg-[#007fcd] lg:rounded-md lg:max-w-7xl mmd:max-w-full sm:px-6 lg:px-8 mmd:px-0 bg-rayburn-blue"
+  >
+    <div class="border-b-0 border-red-200">
+      <div class="flex items-center justify-between h-24">
+        <div class="flex ml-4 lg:ml-0">
+          <a
+            href="/"
+            class="router-link-active router-link-exact-active"
+            aria-current="page"
+            ><span class="sr-only">RTC</span
+            ><img
+              src="/assets/rayburn_logo_footer.png"
+              class="w-auto h-12 pt-1 pb-1 sm:h-12 mmd:h-12"
+              alt=""
+          /></a>
+        </div>
+        <!-- Desktop Nav -->
+        <div class="hidden lg:ml-8 lg:block lg:self-stretch">
+          <div class="flex h-full space-x-0 border-0 border-red-500">
+            <div class="flex">
+              <div class="relative flex">
+                <a
+                  href="https://www.rayburntrading.com/shop/hair-care/shampoo-conditioner?page=1"
+                  class="border-[#0367a5] text-white relative z-0 h-full flex items-center transition-colors ease-out duration-200 text-base font-bold border-l border-r border-rayburn-blue-medium -mb-px pt-px hover:bg-[#0377be] px-5"
+                  id="headlessui-popover-button-1"
+                  type="button"
+                  aria-expanded="false"
+                  data-headlessui-state=""
+                >
+                  Back to Shop</a
+                ><!---->
+              </div>
+              <!---->
+            </div>
+
+            <div class="z-0 flex">
+              <div class="relative z-10 shadow">
+                <!---->
+                <div
+                  class="flex items-center px-4 py-6 mx-auto max-w-7xl sm:px-6 lg:px-4"
+                ></div>
+              </div>
+              <!---->
+            </div>
+          </div>
+        </div>
+
+        <!-- Mobile Nav -->
+        <div
+          aria-label="Secondary"
+          class="fixed opacity-0 transition-opacity duration-300 inset-0 z-40 mt-[96px] justify-start hidden sm:flex lg:hidden"
+        >
+          <div
+            class="w-5/6 py-3 bg-white border-r border-slate-200"
+            aria-label="Inner"
+          >
+            <div class="px-4 pb-3 border-b border-slate-200">
+              <a
+                class="w-full p-3 border border-[#007fcd] rounded flex items-center text-[#007fcd] font-bold"
+                href="https://www.rayburntrading.com/shop/hair-care/shampoo-and-conditioner?page=1"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke-width="1.5"
+                  stroke="currentColor"
+                  class="w-6 h-6 mr-4"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    d="M9 15L3 9m0 0l6-6M3 9h12a6 6 0 010 12h-3"
+                  />
+                </svg>
+
+                Back to Shop
+              </a>
+            </div>
+
+            <div
+              class="flex flex-row items-center justify-start px-4 mt-8 mb-4"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="w-6 h-6"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M12 7.5h1.5m-1.5 3h1.5m-7.5 3h7.5m-7.5 3h7.5m3-9h3.375c.621 0 1.125.504 1.125 1.125V18a2.25 2.25 0 01-2.25 2.25M16.5 7.5V18a2.25 2.25 0 002.25 2.25M16.5 7.5V4.875c0-.621-.504-1.125-1.125-1.125H4.125C3.504 3.75 3 4.254 3 4.875V18a2.25 2.25 0 002.25 2.25h13.5M6 7.5h3v3H6v-3z"
+                />
+              </svg>
+
+              <h2 class="px-4 font-bold text-slate-700">Rayburn News</h2>
+            </div>
+
+            {% for post in site.posts limit:10 %}
+            <a
+              href="{{ post.url }}"
+              class="block px-4 py-1 text-sm text-gray-600 hover:bg-gray-100 hover:text-gray-900"
+            >
+              <span class="text-base text-gray-800">
+                {{ post.title }} <br />
+              </span>
+              {{ post.date | date_to_string}}
+            </a>
+
+            {% endfor %}
+
+            <!-- <div
+              class="flex flex-row items-center justify-start px-4 mt-8 mb-4"
+            >
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9.568 3H5.25A2.25 2.25 0 003 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 005.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 009.568 3z" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M6 6h.008v.008H6V6z" />
+              </svg>
+              
+
+              <h2 class="px-4 font-bold text-slate-700">Last 10 Tags</h2>
+            </div>
+
+            <div class="flex flex-wrap items-center justify-start gap-2 px-4">
+
+                {% for tag in site.categories limit:10 %}
+
+                <a class="bg-slate-100 text-blue-400 text-sm font-bold rounded px-2 py-2 mx-0.5" href="">
+                    {{ tag[0] }}
+                </a>
+
+
+                {% endfor %}
+
+            </div> -->
+          </div>
+        </div>
+
+        <button
+          type="button"
+          class="p-2 mr-4 text-gray-400 bg-white rounded-md lg:hidden"
+          aria-label="Open menu"
+        >
+          <span class="sr-only">Open menu</span
+          ><svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            aria-hidden="true"
+            class="w-6 h-6"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
+            ></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<script>
+  const menuButton = document.querySelector('[aria-label="Open menu"]');
+  const menu = document.querySelector('[aria-label="Secondary"]');
+  const inner = document.querySelector('[aria-label="Inner"]');
+
+  document.addEventListener("click", (event) => {
+    const withinBoundaries = event.composedPath().includes(inner);
+    const isMenuButton = event.composedPath().includes(menuButton);
+
+    // click happened on menu button so just return here and toggle menu
+    if (isMenuButton) {
+      return;
+    }
+
+    // click happened outside of menu button but the menu isn't open so just return here
+    if (menu.classList.contains("opacity-0")) {
+      return;
+    }
+
+    // click happened outside of menu and menu is open so let's close the menu
+    if (!withinBoundaries) {
+      toggleMenu();
+    }
+  });
+
+  menuButton.addEventListener("click", () => {
+    toggleMenu();
+  });
+
+  function toggleMenu() {
+    if (menu.classList.contains("opacity-0")) {
+      menu.classList.remove("opacity-0");
+      menu.classList.add("flex");
+      menu.classList.add("opacity-100");
+      setTimeout(() => {
+        menu.classList.remove("hidden");
+      }, 300);
+    } else {
+      menu.classList.remove("flex");
+      menu.classList.remove("opacity-100");
+      setTimeout(() => {
+        menu.classList.add("hidden");
+      }, 300);
+      menu.classList.add("opacity-0");
+    }
+  }
+</script>

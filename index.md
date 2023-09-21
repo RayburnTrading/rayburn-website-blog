@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
-permalink: /
+title: "Happy coding"
 ---
+
 
