@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Happy coding"
+title: "Rayburn Trading News & Blog - The UK's leading toiletries wholesaler"
 ---
 
 

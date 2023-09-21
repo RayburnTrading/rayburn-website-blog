@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "New Lines September 2023"
 date:   2023-09-20 17:07:12 +0100
 categories: jekyll update
 cover: "/assets/post_exclusives.jpg"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Jekyll requires blog post files to be named according to the following format: whoop
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
