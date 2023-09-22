@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Lines September 2023"
+title:  "Rayburn Trading - New Wholesale and Byulk Buy Lines September 2023"
 date:   2023-09-20 17:07:12 +0100
 tags: [new lines]
 cover: "/assets/post_new_lines.jpg"
@@ -19,18 +19,18 @@ Not to be missed, three new [Comfort Fabric Conditioner's][comfort] SKU's have a
 
 <div class="grid grid-cols-2 gap-2 px-2 sm:grid-cols-4">
 <img src="https://www.rayburntrading.com/images/products/498578t.jpg" alt="Elbow Grease" class="mx-auto rounded-md" />
-<img src="https://www.rayburntrading.com/images/products/498560t.jpg" alt="Maynards" class="mx-auto rounded-md" />
-<img src="https://www.rayburntrading.com/images/products/498023t.jpg" alt="Maynards" class="mx-auto rounded-md" />
-<img src="https://www.rayburntrading.com/images/products/498031t.jpg" alt="Maynards" class="mx-auto rounded-md" />
+<img src="https://www.rayburntrading.com/images/products/498560t.jpg" alt="Elbow Grease" class="mx-auto rounded-md" />
+<img src="https://www.rayburntrading.com/images/products/498023t.jpg" alt="Elbow Grease" class="mx-auto rounded-md" />
+<img src="https://www.rayburntrading.com/images/products/498031t.jpg" alt="Elbow Grease" class="mx-auto rounded-md" />
 </div>
 
 [Elbow Grease][elbow] is one of the UK's fastest growing household cleaning brands and we've got a great new range of soap pads, drain unblockers and more.
 
 <div class="grid grid-cols-2 gap-2 px-2 sm:grid-cols-4">
-<img src="https://www.rayburntrading.com/images/products/480624t.jpg" alt="Elbow Grease" class="mx-auto rounded-md" />
-<img src="https://www.rayburntrading.com/images/products/458184t.jpg" alt="Maynards" class="mx-auto rounded-md" />
-<img src="https://www.rayburntrading.com/images/products/446460t.jpg" alt="Maynards" class="mx-auto rounded-md" />
-<img src="https://www.rayburntrading.com/images/products/415671t.jpg" alt="Maynards" class="mx-auto rounded-md" />
+<img src="https://www.rayburntrading.com/images/products/480624t.jpg" alt="Christmas Confec" class="mx-auto rounded-md" />
+<img src="https://www.rayburntrading.com/images/products/458184t.jpg" alt="Christmas Confec" class="mx-auto rounded-md" />
+<img src="https://www.rayburntrading.com/images/products/446460t.jpg" alt="Christmas Confec" class="mx-auto rounded-md" />
+<img src="https://www.rayburntrading.com/images/products/415671t.jpg" alt="Christmas Confec" class="mx-auto rounded-md" />
 </div>
 
 Tis the season, we've got a great range of Christmas stock in, from all your favourite branded chocolate and confectionery to gift bags, wrapping paper, cards and more, all at clearance prices.
