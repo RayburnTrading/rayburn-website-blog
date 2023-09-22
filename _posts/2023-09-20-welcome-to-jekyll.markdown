@@ -14,4 +14,7 @@ Whether you're looking for distinctive merchandise to differentiate your retail 
 
 Explore our selection of [exclusive products][exclusive] and discover the difference that quality and variety can make for your business.
 
+<img src="{{site.baseurl}}/assets/post_exclusives.jpg" alt="My helpful screenshot" class="mx-auto rounded-md" />
+
+
 [exclusive]: https://www.rayburntrading.com/shop/offer/exclusive-to-rayburn

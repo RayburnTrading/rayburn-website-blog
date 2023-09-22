@@ -2680,6 +2680,10 @@ video {
     height: 3rem;
   }
 
+  .sm\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
   .sm\:justify-start {
     justify-content: flex-start;
   }
