@@ -104,7 +104,7 @@
 
             {% for post in site.posts limit:10 %}
             <a
-              href="{{ post.url }}"
+              href="{{site.baseurl}}{{ post.url }}"
               class="block px-4 py-1 text-sm text-gray-600 hover:bg-gray-100 hover:text-gray-900"
             >
               <span class="text-base text-gray-800">
