@@ -5,6 +5,12 @@ date:   2023-09-20 17:07:12 +0100
 categories: jekyll update
 cover: "/assets/post_exclusives.jpg"
 ---
+
+Stephen Dev:
+
+Re-compile Tailwind:  npx tailwindcss -i ./assets/css/main.css -o ./assets/css/tailwind.css --watch
+Run Jekyll: bundle exec jekyll serve
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rayburn Trading - New Wholesale and Byulk Buy Lines September 2023"
+title:  "Rayburn Trading - New Wholesale and Bulk Buy Lines September 2023"
 date:   2023-09-20 17:07:12 +0100
 tags: [new lines]
 cover: "/assets/post_new_lines.jpg"
