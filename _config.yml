@@ -22,10 +22,10 @@ title: Rayburn Trading News & Blog - The UK's leading toiletries wholesaler
 email: enquiries@rayburntrading.com
 description: >- # this means to ignore newlines until "baseurl:"
   Browse our extensive collection of high-quality wholesale drinks items, perfect for retailers and businesses.
-baseurl: "/rayburn-website-blog" # the subpath of your site, e.g. /blog
-url: "https://rayburntrading.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://rayburntrading.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ''
+github_username:  ''
 
 # Build settings
 theme: minima
