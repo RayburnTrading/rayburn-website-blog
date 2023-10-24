@@ -5,7 +5,7 @@ date:   2023-10-06 01:07:12 +0100
 cover: "/assets/post_sign.jpg"
 ---
 
-Rayburn Trading, a company with a seven-decade history of dedication and commitment, is pleased to announce the achievement of a significant milestone – surpassing £100 million in turnover. This accomplishment underscores the enduring values and consistent work ethic that define the organization.
+Rayburn Trading, a company with a seven-decade history of dedication and commitment, is pleased to announce the achievement of a significant milestone – surpassing £100 million in turnover. This accomplishment underscores the enduring values and consistent work ethic that define the organization!
 
 Established by Benny Goldman 70 years ago, Rayburn Trading embarked on its journey with modest beginnings. Benny's vision was founded on principles of hard work, integrity, and community values. While Benny is no longer with us to witness this achievement, his legacy remains an integral part of the company.
 
